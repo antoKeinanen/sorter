@@ -34,7 +34,7 @@ I will only fix bugs. No new features will be added.
 ## Support/Ideas/Feedback
 Leave me a message in discussions tab!
 
-##Found a bug?
+## Found a bug?
 Report it [here](https://github.com/antoKeinanen/sorter/issues/new?assignees=&labels=&template=bug_report.md&title=)!
 
 ## License
