@@ -20,7 +20,7 @@ No additional packages required!
 ![Picture of windows file system](https://i.imgur.com/THtNXMV.png)
 
 image 1
-2. Ff name of the directory starts with ``--`` it will be ignored during the sorting process.
+2. If name of the directory starts with ``--`` it will be ignored during the sorting process.
 3. Run main.py using command ``python3 main.py`` in terminal or commandline
 4. enter the name of the folder you want to sort. In this case ``File To Be Sorted``
 5. Your files will be sorted by their filetype like in picture 2.
