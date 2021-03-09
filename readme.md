@@ -5,7 +5,7 @@ Sorter is simple file sorter made in Python it will sort files into folders by t
 ![](https://img.shields.io/github/forks/antoKeinanen/sorter)
 ![](https://img.shields.io/github/release/antoKeinanen/sorter) 
 ![](https://img.shields.io/github/issues/antoKeinanen/sorter)
-[![Run on Repl.it](https://repl.it/badge/github/antoKeinanen/chessAi)](https://repl.it/github/antoKeinanen/chessAi)
+[![Run on Repl.it](https://repl.it/badge/github/antoKeinanen/sorter)](https://repl.it/github/antoKeinanen/sorter)
 
 ## Installation
 Enter the following commands to in commandline or shell.
